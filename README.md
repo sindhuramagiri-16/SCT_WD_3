@@ -50,6 +50,7 @@ SCT_WD_3/
 ![Playing](screenshots/playing.png)
 
 ![Result](screenshots/result.png)
+
 ## ▶ How to Run
 
 1. Download or Clone the Repository.
