@@ -2,21 +2,21 @@
 
 ## 📌 Project Overview
 
-This project is a modern Tic-Tac-Toe Web Application developed as part of the SkillCraft Technology Web Development Internship.
+This project is a Tic-Tac-Toe Web Application developed as part of the SkillCraft Technology Web Development Internship.
 
-The application allows two players to play Tic-Tac-Toe with real-time game state tracking, winner detection, and a responsive user interface.
+The game allows two players to compete on a 3×3 grid while automatically checking winning conditions and game status.
 
 ---
 
 ## 🚀 Features
 
 - Interactive Tic-Tac-Toe Board
-- Two Player Gameplay
+- Two Player Mode
 - Winner Detection
 - Draw Detection
-- New Game Functionality
+- Restart Game Option
 - Responsive Design
-- Modern Glassmorphism UI
+- Modern User Interface
 
 ---
 
@@ -61,10 +61,10 @@ SCT_WD_3/
 
 ## ▶ How to Run
 
-1. Download the repository.
-2. Open in VS Code.
-3. Open index.html in browser.
-4. Play the game.
+1. Download or Clone the Repository.
+2. Open the project folder in VS Code.
+3. Open index.html using Live Server.
+4. Start playing Tic-Tac-Toe.
 
 ---
 
@@ -72,11 +72,9 @@ SCT_WD_3/
 
 - DOM Manipulation
 - Event Handling
-- Game State Management
-- Responsive UI Design
-- JavaScript Logic Building
+- Game Logic Development
+- JavaScript Fundamentals
+- Git & GitHub Workflow
 
 ---
-
-## 👩‍💻 Author
 
