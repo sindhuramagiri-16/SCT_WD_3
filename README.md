@@ -45,11 +45,11 @@ SCT_WD_3/
 
 ## 📸 Screenshots
 
-![Home](home.png)
+![Home](screenshots/home.png)
 
-![Playing](playing.png)
+![Playing](screenshots/playing.png)
 
-![Result](result.png)
+![Result](screenshots/result.png)
 
 ## ▶ How to Run
 
