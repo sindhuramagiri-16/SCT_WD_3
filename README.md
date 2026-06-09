@@ -45,20 +45,11 @@ SCT_WD_3/
 
 ## 📸 Screenshots
 
-### Home Screen
-
 ![Home](screenshots/home.png)
-
-### Gameplay
 
 ![Playing](screenshots/playing.png)
 
-### Result Screen
-
 ![Result](screenshots/result.png)
-
----
-
 ## ▶ How to Run
 
 1. Download or Clone the Repository.
